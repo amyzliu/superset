@@ -212,3 +212,4 @@ export {
   type CodeEditorTheme,
 } from './CodeEditor';
 export { ActionButton, type ActionProps } from './ActionButton';
+export { Splitter, type SplitterProps } from './Splitter';

@@ -16,5 +16,5 @@
  * specific language governing permissions and limitations
  * under the License.
  */
-
-export { Splitter, type SplitterProps } from '@superset-ui/core/components';
+export { Splitter } from 'antd';
+export type { SplitterProps } from 'antd/es/splitter';
